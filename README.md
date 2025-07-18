@@ -2,7 +2,7 @@ Hi there 👋 I'm Yashasvi Dixit
 
 🚀 About Me
 
-I'm a passionate Computer Science undergraduate , driven by curiosity and a love for building solutions through code. Currently exploring full-stack development and problem-solving using C++.
+I'm a passionate Computer Science undergraduate driven by curiosity and a love for building solutions through code. Currently exploring full-stack development and problem-solving using C++.
 
 I have good knowledge of JavaScript, Java, and Python.
 
