@@ -28,4 +28,4 @@ Whether it’s a quick match with friends or just shooting hoops alone, sports h
 
 🌐 Portfolio Website (Coming Soon)
 
-📩 yashasvidixitg.05@email.com
+📩 yashasvidixitg.05@gmail.com
