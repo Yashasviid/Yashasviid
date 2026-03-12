@@ -66,26 +66,26 @@ I'm a passionate Computer Science undergraduate driven by curiosity and a love f
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashasviid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashasviid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashasviid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
+ 
 </div>
-
+ 
 <div align="center">
-
+ 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasviid&theme=tokyonight&hide_border=true&background=0D1117" />
-
+ 
 </div>
-
+ 
 <div align="center">
-
+ 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashasviid&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
-
+ 
 </div>
-
+ 
 ---
 
 ## 🏆 Achievements & Certifications
