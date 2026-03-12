@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=Hey%2C%20I'm%20Yashasvi%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <br/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=CS+Undergraduate+%40+Banasthali+Vidyapith;Aspiring+Full-Stack+Developer;DSA+%7C+React+%7C+Next.js+Enthusiast;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=CS+Undergraduate+%F0%9F%8E%93;Aspiring+Full-Stack+Developer;DSA+%7C+React+%7C+Next.js+Enthusiast;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Social badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-yashasvi--portfolio.vercel.app-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://yashasvi-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashasvi%20Dixit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashasvi-dixit-693238372/)
 [![GitHub](https://img.shields.io/badge/GitHub-Yashasviid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashasviid)
@@ -25,14 +22,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science undergraduate** at **Banasthali Vidyapith**, driven by curiosity and a love for building impactful solutions through code.  
-Currently, I'm deep-diving into **full-stack development** while strengthening my **C++ and problem-solving skills**.
+I'm a passionate Computer Science undergraduate driven by curiosity and a love for building solutions through code. Currently exploring full-stack development and problem-solving using C++.
 
-- 🔭 Currently building **full-stack web projects using React and Next.js**
-- 🌱 Continuously learning **React, Git/GitHub, and clean coding practices**
-- 💼 Former **Web Development Intern @ Semi-Conductor Laboratory (SCL), Govt. of India** *(under MeitY)*
-- ⚡ Fun fact: **Sports are my reset button — unwind, recharge, repeat**
-- 🤝 Open to **collaborations, open-source contributions, and exciting opportunities**
+- 🔭 Currently shipping full-stack projects and exploring new tools
+- 🌱 Always learning - React, clean code, system design, one step at a time
+- 💼 Former Web Dev Intern @ Semi-Conductor Laboratory (SCL), Govt. of India *(MeitY)*
+- 🏀 Sports are my reset button - nothing clears the head like a good game
+- 🤝 Open to collabs, open-source, and cool side projects
 
 ---
 
@@ -94,23 +90,32 @@ Currently, I'm deep-diving into **full-stack development** while strengthening m
 
 ## 🏆 Achievements & Certifications
 
-- 🌸 **GirlScript Summer of Code 2025** — Open Source Contributor  
-- 💎 **SheFi Scholar — Cohort 15**  
-- 🤖 **IBM SkillsBuild AI Certificate** — [View Credential](https://www.credly.com/badges/861ea602-a0fe-43e2-ab66-a36dc857107a)  
-- 💼 **Web Development Intern** — Semi-Conductor Laboratory (MeitY), Govt. of India  
+- 🌸 **GirlScript Summer of Code 2025** - Open Source Contributor
+- 💎 **SheFi Scholar - Cohort 15**
+- 🤖 **IBM SkillsBuild AI Certificate** - [View Credential](https://www.credly.com/badges/861ea602-a0fe-43e2-ab66-a36dc857107a)
+- 💼 **Web Development Intern** - Semi-Conductor Laboratory (MeitY), Govt. of India
 
 ---
 
-## 💡 Interests
+## 💡 What I'm into
 
-💻 Data Structures & Algorithms
-🌐 Full-Stack Web Development
-🛠️ Open Source Contributions
+- 💻 DSA & problem solving - C++ is my weapon of choice
+- 🌐 Building full-stack web apps that actually work
+- 🛠️ Open source - still early but getting there
+- 🧠 Writing cleaner code every day (the goal, at least)
 
---- 
+---
 
-<div align="center"> 
-  ### 🌐 Check out my Portfolio → [yashasvi-portfolio.vercel.app](https://yashasvi-portfolio.vercel.app/) 
-  <br/> *"Build, break, learn, repeat."* <br/> 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=80&section=footer" /> 
+<div align="center">
+
+**🌐 Portfolio → [yashasvi-portfolio.vercel.app](https://yashasvi-portfolio.vercel.app/)**
+
+<br/>
+
+*"Build, break, learn, repeat."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=80&section=footer" />
+
 </div>
