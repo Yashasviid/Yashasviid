@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=CS+Undergraduate+%F0%9F%8E%93;Aspiring+Full-Stack+Developer;DSA+%7C+React+%7C+Next.js+Enthusiast;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
+---
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yashasvi--portfolio.vercel.app-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://yashasvi-portfolio.vercel.app/)
@@ -17,10 +18,7 @@
 [![Email](https://img.shields.io/badge/Email-yashasvidixitg.05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashasvidixitg.05@gmail.com)
 
 </div>
-
----
-
-## 🚀 About Me
+## About Me :
 
 I'm a passionate Computer Science undergraduate driven by curiosity and a love for building solutions through code. Currently exploring full-stack development and problem-solving using C++.
 
