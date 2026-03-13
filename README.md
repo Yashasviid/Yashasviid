@@ -18,15 +18,16 @@
 [![Email](https://img.shields.io/badge/Email-yashasvidixitg.05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashasvidixitg.05@gmail.com)
 
 </div>
-## About Me :
+
+## About Me 🙋🏻‍♀️ :
 
 I'm a passionate Computer Science undergraduate driven by curiosity and a love for building solutions through code. Currently exploring full-stack development and problem-solving using C++.
 
-- 🔭 Currently shipping full-stack projects and exploring new tools
-- 🌱 Always learning - React, clean code, system design, one step at a time
-- 💼 Former Web Dev Intern @ Semi-Conductor Laboratory (SCL), Govt. of India *(MeitY)*
-- 🏀 Sports are my reset button - nothing clears the head like a good game
-- 🤝 Open to collabs, open-source, and cool side projects
+-  Currently shipping full-stack projects and exploring new tools
+-  Always learning - React, clean code, system design, one step at a time
+-  Former Web Dev Intern @ Semi-Conductor Laboratory (SCL), Govt. of India *(MeitY)*
+-  Sports are my reset button - nothing clears the head like a good game
+-  Open to collabs, open-source, and cool side projects
 
 ---
 
@@ -86,21 +87,21 @@ I'm a passionate Computer Science undergraduate driven by curiosity and a love f
  
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
-- 🌸 **GirlScript Summer of Code 2025** - Open Source Contributor
-- 💎 **SheFi Scholar - Cohort 15**
-- 🤖 **IBM SkillsBuild AI Certificate** - [View Credential](https://www.credly.com/badges/861ea602-a0fe-43e2-ab66-a36dc857107a)
-- 💼 **Web Development Intern** - Semi-Conductor Laboratory (MeitY), Govt. of India
+-  **GirlScript Summer of Code 2025** - Open Source Contributor
+-  **SheFi Scholar - Cohort 15**
+-  **IBM SkillsBuild AI Certificate** - [View Credential](https://www.credly.com/badges/861ea602-a0fe-43e2-ab66-a36dc857107a)
+-  **Web Development Intern** - Semi-Conductor Laboratory (MeitY), Govt. of India
 
 ---
 
-## 💡 What I'm into
+##  What I'm into
 
-- 💻 DSA & problem solving - C++ is my weapon of choice
-- 🌐 Building full-stack web apps that actually work
-- 🛠️ Open source - still early but getting there
-- 🧠 Writing cleaner code every day (the goal, at least)
+-  DSA & problem solving - C++ is my weapon of choice
+-  Building full-stack web apps that actually work
+-  Open source - still early but getting there
+-  Writing cleaner code every day (the goal, at least)
 
 ---
 
