@@ -1,28 +1,38 @@
 <div align="center">
 
+<br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=CS+Undergraduate;Full-Stack+Development;DSA+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=CS+Undergraduate+%F0%9F%8E%93;Aspiring+Full-Stack+Developer;DSA+%7C+React+%7C+Next.js+Enthusiast;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
+---
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yashasvi--portfolio.vercel.app-667eea?style=flat-square&logo=vercel&logoColor=white)](https://yashasvi-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Yashasviid-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yashasviid)
-[![Email](https://img.shields.io/badge/Email-yashasvidixitg.05%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashasvidixitg.05@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yashasvi--portfolio.vercel.app-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://yashasvi-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashasvi%20Dixit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashasvi-dixit-693238372/)
+[![GitHub](https://img.shields.io/badge/GitHub-Yashasviid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashasviid)
+[![LeetCode](https://img.shields.io/badge/LeetCode-yashasvid-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yashasvid/)
+[![Email](https://img.shields.io/badge/Email-yashasvidixitg.05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashasvidixitg.05@gmail.com)
 
 </div>
 
+## About Me 🙋🏻‍♀️ :
+
+I'm a passionate Computer Science undergraduate driven by curiosity and a love for building solutions through code. Currently exploring full-stack development and problem-solving using C++.
+
+-  Currently shipping full-stack projects and exploring new tools
+-  Always learning - React, clean code, system design one step at a time
+-  Sports are my reset button - nothing clears the head like a good game
+-  Open to collabs, open-source, and cool side projects
+-  Singing - not professionally, just whenever 
 ---
 
-## About me
-
-CS undergrad who enjoys building full-stack apps and learning DSA. I like exploring new tech stacks, writing cleaner code over time, and contributing to open source when I can.
-
----
-
-## Tech
+## Tech Stack
 
 <div align="center">
+
+**Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -30,12 +40,19 @@ CS undergrad who enjoys building full-stack apps and learning DSA. I like explor
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-<br/>
+
+**Frontend & Frameworks**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-<br/>
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
@@ -45,28 +62,42 @@ CS undergrad who enjoys building full-stack apps and learning DSA. I like explor
 ---
 
 ## GitHub Stats
-
-## GitHub Stats
-
+ 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yashasviid&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashasviid&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" />
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashasviid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashasviid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+ 
+</div>
+ 
+<div align="center">
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasviid&theme=tokyonight&hide_border=true&background=0D1117" />
+ 
+</div>
+ 
+<div align="center">
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashasviid&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
+ 
 </div>
 
 ---
 
-## What I'm into
+##  What I'm into
 
-- Building full-stack web apps that actually work
-- Exploring open source and contributing when possible
-- Writing cleaner, more readable code over time
-- Sports - badminton is my go-to, but I'll play anything once
-- Singing - not professionally, just whenever
+-  Building full-stack web apps that actually work
+-  Open source - still early but getting there
+-  Writing cleaner code every day (the goal, at least)
 
 ---
 
 <div align="center">
 
-"Build. Break. Learn."
+<br/>
+
+*"Build, break, learn, repeat."*
+
+<br/>
 
 </div>
