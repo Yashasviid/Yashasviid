@@ -14,9 +14,9 @@
 
 ---
 
-## About Me 
+## About me
 
-CS undergrad who enjoys building full-stack apps, learning DSA, and exploring new tech stacks.
+CS undergrad who enjoys building full-stack apps and learning DSA. I like exploring new tech stacks, writing cleaner code over time, and contributing to open source when I can.
 
 ---
 
@@ -30,15 +30,11 @@ CS undergrad who enjoys building full-stack apps, learning DSA, and exploring ne
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
 <br/>
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
 <br/>
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -51,18 +47,19 @@ CS undergrad who enjoys building full-stack apps, learning DSA, and exploring ne
 ## GitHub Stats
 
 <div align="center">
-
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yashasviid&show_icons=true&hide_border=true&cache_seconds=1800" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashasviid&layout=compact&hide_border=true&cache_seconds=1800" />
-
 </div>
+
 ---
 
 ## What I'm into
 
-- Building full-stack web apps that actually work  
-- Exploring open source and contributing when possible  
-- Writing cleaner, more readable code over time  
+- Building full-stack web apps that actually work
+- Exploring open source and contributing when possible
+- Writing cleaner, more readable code over time
+- Sports - badminton is my go-to, but I'll play anything once
+- Singing - not professionally, just whenever
 
 ---
 
