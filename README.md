@@ -52,11 +52,10 @@ CS undergrad who enjoys building full-stack apps, learning DSA, and exploring ne
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yashasviid&show_icons=true&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashasviid&layout=compact&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yashasviid&show_icons=true&hide_border=true&cache_seconds=1800" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashasviid&layout=compact&hide_border=true&cache_seconds=1800" />
 
 </div>
-
 ---
 
 ## What I'm into
